@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.exe.config
+C:\Users\ASUS\source\repos\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.exe
+C:\Users\ASUS\source\repos\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.pdb
+C:\Users\ASUS\source\repos\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.exe
+C:\Users\ASUS\source\repos\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.pdb
